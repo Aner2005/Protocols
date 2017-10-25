@@ -1,0 +1,2 @@
+g++ -O3 -w -o OnlineTest.out  OTExtnsion/*.cpp util/*.cpp -I 'util/' -std=c++11  -L./  -msse4.1 -maes -msse2 -mpclmul -fpermissive -fpic
+

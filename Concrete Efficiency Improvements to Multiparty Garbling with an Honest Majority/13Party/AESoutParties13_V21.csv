@@ -1,0 +1,180 @@
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,-415207424,5.387752,
+Offline Times, Online Times
+2.235303,0.063372
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,-862556160,7.449788,
+Offline Times, Online Times
+2.239951,0.066535
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,34325920,8.073461,
+Offline Times, Online Times
+2.185906,0.064742
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,484962304,9.341126,
+Offline Times, Online Times
+2.388715,0.063004
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,31081888,7.385087,
+Offline Times, Online Times
+2.213988,0.078458
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,21800352,5.133290,
+Offline Times, Online Times
+2.167854,0.073112
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,23126240,6.369881,
+Offline Times, Online Times
+2.134825,0.055683
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,38940896,4.649908,
+Offline Times, Online Times
+2.135422,0.068760
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,23246240,6.941405,
+Offline Times, Online Times
+2.167172,0.054855
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,1,24838368,6.240970,
+Offline Times, Online Times
+2.217314,0.064817
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,11,6412080,7.275823,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.201094,2.034049,0.167046,0.033852
+2.034280,1.937745,0.096535,0.035859
+1.930807,1.828144,0.102663,0.033006
+1.934410,1.856902,0.077507,0.029860
+1.923636,1.845801,0.077834,0.030412
+1.952003,1.858672,0.093331,0.031227
+1.938535,1.833701,0.104833,0.028888
+1.936162,1.864533,0.071629,0.032305
+1.933983,1.819256,0.114727,0.035685
+1.967094,1.849038,0.118057,0.033698
+1.950797,1.859553,0.091245,0.066256
+Parties, Party, AND gates, XOR gates, Version,Iterations, Setup Time
+13,0,7200,29752,21,11,6403888,7.094774,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.156621,2.015043,0.141578,0.024736
+1.978503,1.906390,0.072113,0.025048
+1.887555,1.802239,0.085317,0.023675
+1.868928,1.717346,0.151582,0.023434
+1.893851,1.824767,0.069084,0.025288
+1.877163,1.727710,0.149453,0.025743
+1.887338,1.810553,0.076785,0.023895
+1.882902,1.810716,0.072187,0.024203
+1.878410,1.803558,0.074851,0.023124
+1.881767,1.803964,0.077803,0.023393
+1.911129,1.816317,0.094812,0.060624
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.372941,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.125615,1.880862,0.244753,0.061487
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.053426,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.169813,2.054840,0.114973,0.063990
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,4.849667,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.200470,1.912295,0.288174,0.067753
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.921949,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.204038,2.000407,0.203631,0.060347
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.209977,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.179008,2.008309,0.170699,0.061975
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.062896,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.357674,1.935393,0.156994,0.064172
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.439221,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.380267,2.188161,0.159279,0.073292
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,5.819949,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.229849,1.991533,0.144706,0.064287
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,5.439036,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.218373,1.747697,0.141562,0.032187
+2.002186,1.852946,0.136478,0.033937
+1.927480,1.759522,0.135712,0.033015
+1.916676,1.772103,0.133266,0.033391
+1.915665,1.774406,0.132800,0.065005
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,7.049588,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.340174,2.114027,0.173285,0.035505
+2.158036,1.965393,0.149577,0.041950
+2.091677,1.929839,0.138134,0.041091
+2.052051,1.885873,0.146940,0.032128
+2.029468,1.846909,0.149469,0.069568
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,7.413376,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.157035,1.779531,0.142008,0.039601
+1.977076,1.833223,0.128396,0.025627
+1.894498,1.754698,0.129557,0.030617
+1.887777,1.752824,0.113559,0.031160
+1.879935,1.745594,0.120227,0.063183
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.072148,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.136653,1.969802,0.113629,0.022864
+1.970567,1.860991,0.100484,0.022196
+1.900604,1.771118,0.112184,0.026763
+1.883099,1.683617,0.104149,0.022668
+1.871162,1.757102,0.103120,0.065446
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,5.102707,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.108675,1.969125,0.113637,0.024196
+1.980003,1.851049,0.088190,0.024484
+1.924997,1.772228,0.122534,0.028158
+1.863069,1.598194,0.106105,0.024631
+1.854474,1.639306,0.106977,0.062121
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,5.065219,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.176608,2.004748,0.151922,0.024931
+2.076155,1.908283,0.157015,0.023274
+1.966842,1.805925,0.144392,0.025208
+1.963127,1.813279,0.126085,0.025577
+1.946270,1.769557,0.149829,0.061915
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,6.908563,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+3.536468,3.007476,0.247335,0.074123
+3.529812,3.246406,0.229560,0.069428
+3.492742,3.002695,0.263135,0.073251
+3.510520,3.214193,0.260350,0.070096
+3.500896,3.211579,0.237495,0.148750
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,8.441832,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+3.561708,3.239433,0.267905,0.070340
+3.551964,3.273169,0.252227,0.064944
+3.545809,3.219702,0.257750,0.071868
+3.513090,2.971516,0.262598,0.073361
+3.512866,3.212225,0.227021,0.144045
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
+13,0,7200,29752,21,13,8.214059,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+2.169916,1.903613,0.114936,0.024916
+2.000622,1.853074,0.113071,0.027827
+1.905687,1.787234,0.104300,0.026711
+1.942694,1.816632,0.104915,0.024030
+1.912726,1.778066,0.110705,0.062465
+Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameter,Iterations, Setup Time
+13,0,7200,29752,21,13,5,6.280548,
+Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
+1.476587,1.359009,0.106173,0.026518
+1.375882,1.259999,0.085568,0.024427
+1.292811,1.172729,0.106774,0.024565
+1.341463,1.219500,0.085691,0.023501
+1.322940,1.204714,0.097733,0.066959
