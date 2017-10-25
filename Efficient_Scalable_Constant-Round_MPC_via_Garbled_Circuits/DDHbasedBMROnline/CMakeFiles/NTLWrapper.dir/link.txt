@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/NTLWrapper.dir/main.cpp.o CMakeFiles/NTLWrapper.dir/NTLWrapper.cpp.o CMakeFiles/NTLWrapper.dir/ZZPrecomputeExp.cpp.o CMakeFiles/NTLWrapper.dir/ZZPrecomputeExp_Sec.cpp.o CMakeFiles/NTLWrapper.dir/MPZPrecomputeExp.cpp.o CMakeFiles/NTLWrapper.dir/MPZPrecomputeExp_Sec.cpp.o  -o NTLWrapper -rdynamic -lntl -lgmpxx -lgmp -lcrypto 
