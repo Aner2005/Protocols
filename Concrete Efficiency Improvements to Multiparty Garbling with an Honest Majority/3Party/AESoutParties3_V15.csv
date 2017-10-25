@@ -1,8 +1,0 @@
-Parties, Party, AND gates, XOR gates, Version, superseed length/ security parameterIterations, Setup Time
-3,0,7200,26680,15,3,0.975120,
-Offline Time, Preprocessing Independent, Preprocessing Dependent, Online Time
-0.048069,0.036457,0.009460,0.003504
-0.040636,0.030635,0.008792,0.002759
-0.044452,0.031966,0.010868,0.003015
-0.042777,0.031572,0.010924,0.002770
-0.044684,0.032399,0.011978,0.005709
