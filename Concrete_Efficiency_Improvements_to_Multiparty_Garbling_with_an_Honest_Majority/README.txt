@@ -22,9 +22,19 @@ IPFile is the IPs (IPv4) of the parties. The file contains the IPs written row a
 
 Key should be a random secret key.
 
-Version Number is the version we use (i.e., BGW2 or BGW3 and which optimizations to use) . List of the different versions:
-[Put list here]
+Version Number is the version we use (i.e., BGW2 or BGW3 and which optimizations to use). All parties must use the same version number.
 
-All parties must use the same version number.
+List of the different versions:
 
-size: 169.5 kb
+10 - BGW3 protocol without optimizations (original protocol but one evaluator)
+11 - BGW3 with main optimization of share conversion (quadratic computational complexity)
+12 - BGW3 with main optimization and with superseed of length only t+1 (~n/2)
+13 - BGW3 with main optimization, superseed of length t+1, and zero-shares are locally generated
+14 - BGW3 with main optimization, superseed of length t+1, locally generated zero-shares, and distribution of workload in last round
+
+20 - BGW2 protocol without optimizations (original protocol but one evaluator)
+21 - BGW2 with main optimization of share conversion (quadratic computational complexity)
+22 - BGW2 with main optimization and with superseed of length only t+1 (~n/3)
+23 - BGW2 with main optimization, superseed of length t+1, and zero-shares are locally generated
+24 - BGW2 with main optimization, superseed of length t+1, locally generated zero-shares, and distribution of workload in last round
+
