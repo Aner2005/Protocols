@@ -4,7 +4,7 @@ Implementation of the code using key homomorphic PRFs based on DDH in quadratic 
 
 COMPILATION
 
-Compilation is done using cmake, by executing the following two commands (before executing the commands, delete ???.)
+Compilation is done using cmake, by executing the following two commands (before executing the commands, delete CMakeCache.txt)
 
 1)cmake CMakeLists.txt
 2)make
