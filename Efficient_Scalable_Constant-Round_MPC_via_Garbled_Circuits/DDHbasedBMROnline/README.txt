@@ -1,6 +1,6 @@
 DESCRIPTION
 
-Implementation of the code using key homomorphic PRFs based on DDH in quadratic group of a large safe prime.
+Implementation of the code using key homomorphic PRFs based on DDH in quadratic residues group of a large safe prime.
 
 COMPILATION
 
